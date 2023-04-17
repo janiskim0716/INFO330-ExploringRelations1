@@ -1,0 +1,1 @@
+select first_name, last_name from persons where gender='Female' AND title='Rev' order by last_name ASC;
